@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Bluejeans/Zoom Closer",
-  "description": "This extension automatically closes the launched window for Bluejeans and Zoom meetings.",
+  "name": "Redirect Tab Closer",
+  "description": "This extension automatically closes the launched window for Bluejeans/Zoom meetings + Slack URLs.",
   "version": "0.1",
   "icons": {
     "16": "assets/icon-16.png",
