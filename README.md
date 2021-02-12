@@ -13,7 +13,7 @@ Got to the [Chrome Web Store](https://chrome.google.com/webstore/detail/bluejean
 * Open Chrome Extension Manager: `chrome://extensions/`
 * Click `Load unpacked`, and select the unzipped folder
 
-## Turn on develper mode
+## Turn on developer mode
 
 * Open Chrome Extension Manager: `chrome://extensions/`
 * Click developer mode switch (on top right corner of the screen) to on
