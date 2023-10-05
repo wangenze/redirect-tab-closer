@@ -17,6 +17,9 @@
   "content_scripts": [
     {
       "matches": [
+        "https://*.slack.com/ssb/*",
+        "https://*orca.amazon.com/*",
+        "https://app.asana.com/*",
         "https://zoom.us/postattendee",
         "https://zoom.us/j/*",
         "https://*.zoom.us/j/*",
