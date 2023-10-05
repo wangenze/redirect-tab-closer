@@ -18,7 +18,7 @@
     {
       "matches": [
         "https://*.slack.com/ssb/*",
-        "https://*orca.amazon.com/*",
+        "https://*.amazon.com/+CSCOE+/*",
         "https://app.asana.com/*",
         "https://zoom.us/postattendee",
         "https://zoom.us/j/*",
